@@ -16,3 +16,5 @@ This exercise is for educational purposes only
 
 ## License
 This project is licensed under the [MIT License](https://github.com/skaramje/Build-a-Formik-Form/blob/master/LICENSE)
+
+![ATM Machine](https://github.com/skaramje/ATMDepositAndCashback/blob/master/ATM%20Machine.png)
