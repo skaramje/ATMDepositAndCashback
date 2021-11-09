@@ -1,6 +1,6 @@
 # ATMDepositAndCashback
 
-Practice React code that lets a user withdraw and deposty money in the bank via ATM
+Practice React code that lets a user withdraw and deposit money in the bank via ATM
 
 ## Installation:
 `git clone` repository and run 'http-server' in the root directory in a bash terminal.  Required: node.js and npm to run the http-server
